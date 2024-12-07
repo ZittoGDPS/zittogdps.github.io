@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/ISC-92a2ff?label=license)! [Static Badge](https://img.shields.io/badge/v18.3.1-92a2ff?label=react) ![Static Badge](https://img.shields.io/badge/v4.9.5-92a2ff?label=ts)
+![Static Badge](https://img.shields.io/badge/ISC-92a2ff?label=license) ![Static Badge](https://img.shields.io/badge/v18.3.1-92a2ff?label=react) ![Static Badge](https://img.shields.io/badge/v4.9.5-92a2ff?label=ts)
 
 # ZittoGDPS WebSite
 Сайт, написанный на React с использованием TypeScript
