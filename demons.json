@@ -1,14 +1,44 @@
 {
     "demons": [
         {
-            "lvlname": "Aboba star",
-            "author": "abobus123",
+            "lvlname": "Toxic Circles",
+            "author": "devstvennik7",
+            "id": 1
+        },
+        {
+            "lvlname": "earwaxx",
+            "author": "DriftonoxX",
             "id": 2
         },
         {
-            "lvlname": "Aboba star",
-            "author": "abobus123",
-            "id": 1
+            "lvlname": "KOCMOC",
+            "author": "xRIOTx",
+            "id": 3
+        },
+        {
+            "lvlname": "techno show",
+            "author": "hiradesu",
+            "id": 4
+        },
+        {
+            "lvlname": "1262",
+            "author": "DriftonoxX",
+            "id": 5
+        },
+        {
+            "lvlname": "yshka never clear",
+            "author": "hiradesu",
+            "id": 6
+        },
+        {
+            "lvlname": "ghost house",
+            "author": "xRIOTx",
+            "id": 7
+        },
+        {
+            "lvlname": "nuzhen xanax",
+            "author": "Sh1zuki",
+            "id": 8
         }
     ]
 }
