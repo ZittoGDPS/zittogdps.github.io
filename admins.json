@@ -1,23 +1,28 @@
 {
     "admins": [
         {
-            "contact": "@zittosurname",
-            "text": "Роль в обществе",
+            "contact": "@_zitto_",
+            "text": "Создатель сервера",
             "img": "placeholder"
         },
         {
-            "contact": "@zittosurname",
-            "text": "Роль в обществе",
+            "contact": "@evgeniyaketaminovaya",
+            "text": "Старший модератор",
             "img": "placeholder"
         },
         {
-            "contact": "@zittosurname",
-            "text": "Роль в обществе",
+            "contact": "@nephorsky",
+            "text": "Старший модератор",
             "img": "placeholder"
         },
         {
-            "contact": "@zittosurname",
-            "text": "Роль в обществе",
+            "contact": "@driftonoxx",
+            "text": "Помощник создателя сервера",
+            "img": "placeholder"
+        },
+        {
+            "contact": "@yyshka",
+            "text": "Младший модератор",
             "img": "placeholder"
         }
     ]
